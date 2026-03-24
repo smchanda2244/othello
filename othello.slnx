@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="othello.vcxproj" Id="1e760123-6743-444d-b3a2-a3fc7ffc9822" />
+</Solution>
