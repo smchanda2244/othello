@@ -7,7 +7,7 @@ namespace Engine {
 		Coordinate m_black_pieces;
 		Coordinate m_white_pieces;
 
-		bool Player;
+		Player Player;
 
 
 	};

@@ -3,7 +3,7 @@
 
 namespace Engine {
 
-	using Coordinate = int64_t;
+	using Coordinate = uint64_t;
 
 	enum class Player {
 		Black,
